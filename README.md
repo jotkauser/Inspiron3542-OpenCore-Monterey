@@ -1,2 +1,3 @@
-# Inspiron3542-OpenCore-Monterey
-OpenCore EFI for Inspiron 3542
+# macOS Monterey for Dell Inspiron 3542
+
+
