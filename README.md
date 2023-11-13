@@ -1,6 +1,7 @@
 # macOS Monterey for Dell Inspiron 3542
 
 Hi, this is EFI for Inspiron 3542 to run macOS
+**EVERYTHING HIGHER THAN MONTEREY WILL NOT WORK WITHOUT ANY PROBLEMS**
 
 # Specs
 | Component | Name |
